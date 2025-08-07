@@ -12,4 +12,4 @@ else:
 if is_prime:
     print(f"{n} is a prime number.")
 else:
-    print(f"{n} is not a prime number.")
+    print(f"{n} is not a prime number.")                                                                                                                                                                                                
